@@ -1,4 +1,4 @@
-name: Scan with ZAP Full Scan Action
+name: Full Scan with ZAP Action
 
 on:
   push:

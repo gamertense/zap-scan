@@ -1,3 +1,5 @@
+name: Baseline Scan with ZAP Action
+
 on: [push]
 
 jobs:
